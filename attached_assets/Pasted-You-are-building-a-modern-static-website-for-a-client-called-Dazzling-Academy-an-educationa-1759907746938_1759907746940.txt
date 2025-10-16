@@ -1,0 +1,126 @@
+You are building a **modern static website** for a client called **Dazzling Academy**, an educational consultancy.  
+The site must look **premium, professional, and world-class**, using **Next.js 14 (App Router) + Tailwind CSS + Framer Motion animations**, and will be deployed to **Vercel**.
+
+---
+
+### Pages & Content (use this final content directly):
+
+## Home Page (/)
+**Hero Section**
+Headline: “Your Future, Our Mission.”  
+Subtext: Dazzling Academy is India’s trusted education and career consultancy, helping students unlock their true potential through transparent guidance, ethical practices, and proven results.  
+CTA: Get Guidance Today  
+
+**Highlights**
+- 🎓 10+ years of trusted consultancy experience  
+- 🌍 Partnerships with top universities in India & abroad  
+- 💼 1000+ students guided to the right career path  
+- 🏆 Strong placement record with global organizations  
+
+**Mini Services Preview**
+- Scholarship Guidance  
+- Technology-Driven Solutions  
+- Certified Counselors  
+- Wide University Network  
+- Holistic Approach  
+
+CTA: Explore Our Services  
+
+---
+
+## About Page (/about)
+**About Us**  
+Dazzling Academy has been guiding students for over a decade with honesty, integrity, and professionalism. We proudly represent leading universities worldwide, helping students enroll in reputed institutions for their higher education.  
+
+Our certified counselors and mentors ensure students choose the right academic and career path. With a strong network of partners and a focus on transparency, we are committed to building futures that shine.  
+
+**Mission Statement**  
+To remain a market leader in education consultancy by consistently delivering high-quality, ethical, and professional services to students, parents, and academic partners.  
+
+**Core Values**
+- Transparency & Integrity  
+- Comprehensive Support  
+- Career-First Approach  
+- Student-Centered Guidance  
+
+---
+
+## Services Page (/services)
+**Our Services**
+We specialize in career counseling, admissions, and placements. Whether you are a high school student, graduate, or professional, we help you identify the best path to achieve your goals.  
+
+**Key Offerings**
+- Career Guidance: Personalized counseling to align education with career goals.  
+- Admission Consulting: Guidance for enrolling in premium institutions across India and abroad.  
+- Placement Support: Strong job connections with top companies and industries.  
+- Recruitment & Training: Helping organizations hire the right talent.  
+- Scholarship Guidance: Assistance in securing financial aid.  
+
+**Courses We Cover**
+- Nursing (GNM & B.Sc.)  
+- Medical & Paramedical  
+- Pharma & Management  
+- Aviation & Hotel Management  
+- Law, B.Ed & D.El.Ed  
+- Computer Science & IT  
+- General Courses (BA, B.Com, B.Sc, MA, M.Com, M.Sc)  
+
+---
+
+## Success / Placements Page (/placements)
+**Track Record of Success**  
+Over the years, Dazzling Academy has successfully placed students in top universities and organizations.  
+
+- Admissions: Hundreds of students admitted to reputed universities across India and abroad.  
+- Placements: Alumni working with leading organizations in diverse fields.  
+
+**Where Our Students Work**  
+Google • Microsoft • Apollo Hospitals • Fortis • AIIMS • Jet Airways • IndiGo • SpiceJet • Marriott • Hyatt • Mayfair • Infosys • and many more.  
+
+**Placement Highlight**  
+“Our universities maintain an impressive 95% placement rate, offering students valuable work experience and future-ready opportunities.”  
+
+---
+
+## Contact Page (/contact)
+**Get In Touch**  
+We’re here to help you take the next step toward your career. Reach out today.  
+
+📍 Address:  
+61, Girish Ghosh Sarani, Hakimpada, Alipurduar, West Bengal, India  
+
+📞 Phone Numbers:  
+- +91 92393 49363  
+- +91 98324 40577  
+- +91 94348 13584  
+- +91 99330 26627  
+- +91 95777 55710  
+
+💬 WhatsApp: +91 98324 40577  
+📧 Email: info@dazzlingacademy.com  
+🔗 Social: Facebook | Instagram (placeholders for now)  
+
+CTA: “Let’s Build Your Career Together”  
+
+---
+
+### Design Guidelines
+- Use Tailwind CSS for clean, modern, responsive design.  
+- Use Framer Motion for smooth animations (fade-in on scroll, hover effects, transitions).  
+- Navbar: Sticky top navigation with logo + links (Home, About, Services, Placements, Contact).  
+- Footer: Contact info, quick links, copyright.  
+- Dark/Light mode toggle.  
+- Hero should look like a modern agency site (big fonts, minimal text, bold CTA).  
+
+---
+
+### Technical Requirements
+- Next.js 14 App Router (`app/` directory).  
+- Add SEO metadata for each page.  
+- Components folder with reusable parts: Navbar, Footer, Hero, Section, Card, Testimonial.  
+- Use `next/image` for optimized images.  
+- Semantic HTML and accessibility best practices.  
+- Mobile-first responsive design.  
+- Optimize for **100 Lighthouse score** in Performance, Accessibility, SEO, Best Practices.  
+
+---
